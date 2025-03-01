@@ -14,3 +14,4 @@ persona =Personas()
 persona.edad = 42
 persona.estatura = 1.60
 print("Nombre:",persona.nombre,"\n","Edad:",persona.edad,"\n","Estatura:",persona.estatura,"\n")
+print("Datos persona")
