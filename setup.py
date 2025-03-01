@@ -9,7 +9,7 @@ setup(
     description="configuracion pad",
     py_modules=["actividad_1"],
     install_requires=[
-        "pandas"
+        "pandas",
         "matplotlib"
     ],
     
